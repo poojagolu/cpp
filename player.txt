@@ -1,0 +1,12 @@
+john
+20
+england
+
+simon
+22
+spain
+
+patrick
+25
+australia
+
